@@ -7,7 +7,7 @@ Find the smallest prime $p$ such that for each positive integer $n$, the quantit
 
 ## Exploration
 For a given $p$, let's call $k$ the gcd of $n^p – n$ for all $n$.
-This program computes the values of $k$ for all primes $p$, stopping when $k > 10^12$.
+This program computes the values of $k$ for all primes $p$, stopping when $k > 10^(12)$.
 
 Program's output is shown below :
 
