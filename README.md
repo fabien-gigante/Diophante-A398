@@ -2,11 +2,11 @@
 see http://www.diophante.fr/problemes-du-mois/5646-a398-en-allant-crescendo
 
 ## Problem statement
-Find the smallest prime p such that for each positive integer n, the quantity n^p – n is divisible by an integer > 1012
+Find the smallest prime $p$ such that for each positive integer $n$, the quantity $n^p â€“ n$ is divisible by an integer > 1012
 
 
 ## Exploration
-For a given p, let's call k the gcd of n^p – n for all n.
+For a given p, let's call k the gcd of n^p â€“ n for all n.
 This program computes the values of k for all primes p, stopping when k > 1e12.
 
 Program's output is shown below :
