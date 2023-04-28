@@ -2,7 +2,7 @@
 see http://www.diophante.fr/problemes-du-mois/5646-a398-en-allant-crescendo
 
 ## Problem statement
-Find the smallest prime $p$ such that for each positive integer $n$, the quantity $n^p – n$ is divisible by an integer > 1012
+Find the smallest prime $p$ such that for each positive integer $n$, the quantity $n^p – n$ is divisible by an integer > $10^{12}$
 
 
 ## Exploration
